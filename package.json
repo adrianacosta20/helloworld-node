@@ -1,0 +1,22 @@
+{
+  "name": "helloword",
+  "version": "1.0.0",
+  "description": "helloworld-node",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianacosta20/helloworld-node.git"
+  },
+  "author": "Adrian Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianacosta20/helloworld-node/issues"
+  },
+  "homepage": "https://github.com/adrianacosta20/helloworld-node#readme"
+}
